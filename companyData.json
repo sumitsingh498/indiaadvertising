@@ -1,0 +1,1924 @@
+{
+    "companyInfo": {
+        "name": "Taj Advertising",
+        "description": "Taj Advertising is a distinguished Manufacturer of a wide range of SS Name Plate, Acrylic, Sign Board, ACrylic Name Plate & LED Sign Board, SS304 Letter, Aluminum Letter & Golden SS Letter etc. Founded in the year 2019, we are a Sole Proprietorship company that is incepted with an objective of providing high quality products in diverse specifications within scheduled time period. Situated in Delhi (India), we manufacture the products in accordance with set industry norms.",
+        "location": "Delhi, India"
+    },
+    "gallery": [
+        {
+            "image": "uploads/1762591206.jpg",
+            "caption": "s"
+        },
+        {
+            "image": "uploads/1762591403.jpeg",
+            "caption": "test"
+        },
+        {
+            "image": "uploads/1762591456.png",
+            "caption": "logo"
+        },
+        {
+            "image": "uploads/1762631463.jpeg",
+            "caption": "ugh"
+        }
+    ],
+    "clients": [
+        "Energy Alloys",
+        "Carrefour",
+        "Omega",
+        "Circus",
+        "Intel",
+        "Kohler",
+        "Samsung",
+        "Park Life",
+        "KFC Gym",
+        "Royal Kaffila",
+        "Sky House",
+        "Imperfecto",
+        "Supermax",
+        "Yahoo",
+        "Panasonic"
+    ],
+    "categories": [
+        {
+            "category": "Sign Board",
+            "subProducts": [
+                {
+                    "name": "Acrylic Sign Board",
+                    "price": "Rs 65 / Inch",
+                    "description": "12mm Solid Acrylic With UV print Sheet and good quality of product and made by Taj Advertising",
+                    "specs": [
+                        {
+                            "key": "Letter Type",
+                            "value": "3D Letter"
+                        },
+                        {
+                            "key": "Lighting Type",
+                            "value": "Non-Lit"
+                        },
+                        {
+                            "key": "Usage/Application",
+                            "value": "Office"
+                        },
+                        {
+                            "key": "Material",
+                            "value": "Acrylic letter"
+                        },
+                        {
+                            "key": "Shape",
+                            "value": "Triangle"
+                        },
+                        {
+                            "key": "Color",
+                            "value": "Blue"
+                        },
+                        {
+                            "key": "Board Type",
+                            "value": "Indoor"
+                        },
+                        {
+                            "key": "Features",
+                            "value": "Waterproof"
+                        },
+                        {
+                            "key": "Country of Origin",
+                            "value": "Made in India"
+                        },
+                        {
+                            "key": "Minimum Order Quantity",
+                            "value": "10 Inch"
+                        },
+                        {
+                            "key": "Thickness",
+                            "value": "12mm"
+                        }
+                    ],
+                    "images": [
+                        "https://5.imimg.com/data5/SELLER/Default/2022/7/RP/BZ/GA/29202208/new-product-250x250.jpeg"
+                    ]
+                },
+                {
+                    "name": "Acrylic Solid Letters",
+                    "price": "Rs 65 / Inch",
+                    "description": "Acrylic Solid letter 8MM With laser cutting. Paste With Double Tape. Acrylic letter With Glossy Finished",
+                    "specs": [
+                        {
+                            "key": "Material",
+                            "value": "Metal"
+                        },
+                        {
+                            "key": "Features",
+                            "value": "Eco Friendly"
+                        },
+                        {
+                            "key": "Voltage",
+                            "value": "110 V"
+                        },
+                        {
+                            "key": "Is It Folded",
+                            "value": "Non Folded"
+                        },
+                        {
+                            "key": "Retro Reflective",
+                            "value": "No"
+                        },
+                        {
+                            "key": "Rustproof",
+                            "value": "Yes"
+                        },
+                        {
+                            "key": "Country of Origin",
+                            "value": "Made in India"
+                        }
+                    ],
+                    "images": [
+                        "https://5.imimg.com/data5/SELLER/Default/2022/7/RP/BZ/GA/29202208/new-product-250x250.jpeg"
+                    ]
+                },
+                {
+                    "name": "3D Sign Boards",
+                    "price": "Rs 650 / Running Inch",
+                    "description": "With an objective to fulfill the ever-evolving demands of our clients, we are engaged in offering a wide assortment of 3D Sign Boards.",
+                    "specs": [
+                        {
+                            "key": "Usage/Application",
+                            "value": "Advertising"
+                        },
+                        {
+                            "key": "Material",
+                            "value": "Acrylic"
+                        },
+                        {
+                            "key": "Board Type",
+                            "value": "Outdoor"
+                        },
+                        {
+                            "key": "Lighting Type",
+                            "value": "LED"
+                        },
+                        {
+                            "key": "Voltage",
+                            "value": "220 V"
+                        },
+                        {
+                            "key": "Country of Origin",
+                            "value": "Made in India"
+                        },
+                        {
+                            "key": "Brand",
+                            "value": "Taj Advertising"
+                        }
+                    ],
+                    "images": [
+                        "https://5.imimg.com/data5/SELLER/Default/2022/7/RP/BZ/GA/29202208/new-product-250x250.jpeg"
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "SS Golden Letters",
+            "subProducts": [
+                {
+                    "name": "SS 304 Letters",
+                    "price": "Rs 95 / Inch",
+                    "description": "SS304 Golden Letter with Lasar Cutting 3\"inch raised Best Quality of Product made By Taj Advertising",
+                    "specs": [
+                        {
+                            "key": "Material",
+                            "value": "Stainless Steel"
+                        },
+                        {
+                            "key": "Color",
+                            "value": "White"
+                        },
+                        {
+                            "key": "Finish",
+                            "value": "Mirror Finish"
+                        },
+                        {
+                            "key": "Usage/Application",
+                            "value": "Advertisement"
+                        },
+                        {
+                            "key": "Size",
+                            "value": "12 inch"
+                        },
+                        {
+                            "key": "Country of Origin",
+                            "value": "Made in India"
+                        },
+                        {
+                            "key": "Brand",
+                            "value": "Taj Advertising"
+                        },
+                        {
+                            "key": "Thickness",
+                            "value": "8 mm"
+                        }
+                    ],
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2020/8/GJ/RL/KQ/29202208/product-jpeg-250x250.jpg"
+                    ]
+                },
+                {
+                    "name": "SS 304 Golden Letters",
+                    "price": "Rs 100 / Inch",
+                    "description": "SS304 Golden Letter with Lasar Cutting 3\"inch raised Best Quality of Product made By Taj Advertising",
+                    "specs": [
+                        {
+                            "key": "Finish",
+                            "value": "Mirror Finish"
+                        },
+                        {
+                            "key": "Material",
+                            "value": "Stainless Steel"
+                        },
+                        {
+                            "key": "Color",
+                            "value": "Golden"
+                        },
+                        {
+                            "key": "Lighting Type",
+                            "value": "Without light"
+                        },
+                        {
+                            "key": "Usage/Application",
+                            "value": "Advertising"
+                        },
+                        {
+                            "key": "Country of Origin",
+                            "value": "Made in India"
+                        },
+                        {
+                            "key": "Brand",
+                            "value": "Taj Advertising"
+                        },
+                        {
+                            "key": "Thickness",
+                            "value": "3.8 mm"
+                        }
+                    ],
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2020/8/GJ/RL/KQ/29202208/product-jpeg-250x250.jpg"
+                    ]
+                },
+                {
+                    "name": "SS 304 Golden Mirror Letters",
+                    "price": "Rs 105 / Inch",
+                    "description": "SS304 Golden Letter with Lasar Cutting 3\"inch raised Best Quality of Product made By Taj Advertising",
+                    "specs": [
+                        {
+                            "key": "Finish",
+                            "value": "Mirror Finish"
+                        },
+                        {
+                            "key": "Usage/Application",
+                            "value": "Advertisement"
+                        },
+                        {
+                            "key": "Material",
+                            "value": "Stainless Steel"
+                        },
+                        {
+                            "key": "Size",
+                            "value": "24 inch"
+                        },
+                        {
+                            "key": "Color",
+                            "value": "Golden"
+                        },
+                        {
+                            "key": "Country of Origin",
+                            "value": "Made in India"
+                        },
+                        {
+                            "key": "Brand",
+                            "value": "Taj Advertising"
+                        },
+                        {
+                            "key": "Thickness",
+                            "value": "4 mm"
+                        }
+                    ],
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2020/8/GJ/RL/KQ/29202208/product-jpeg-250x250.jpg"
+                    ]
+                },
+                {
+                    "name": "test",
+                    "price": "77/kg",
+                    "description": "aljdlfjajlf",
+                    "specs": [
+                        {
+                            "key": "Country",
+                            "value": "India"
+                        },
+                        {
+                            "key": "test",
+                            "value": "test"
+                        },
+                        {
+                            "key": "test1",
+                            "value": "jgjhkjh"
+                        }
+                    ],
+                    "additionalInfo": [],
+                    "images": [
+                        "uploads/1762592130_0.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "Sign Letters",
+            "subProducts": [
+                {
+                    "name": "SS 304 Sign Letter",
+                    "price": "Rs 95 / Inch",
+                    "description": "SS304 Golden Letter with Lasar Cutting 3\"inch raised Best Quality of Product made By Taj Advertising \u201cTaj Advertising\u201d is a distinguished Manufacturer of a wide range of SS Name Plate, Acrylic, Sign Board, ACrylic Name Plate & LED Sign Board, SS304 Letter , Aluminum Letter & Golden SS Letter etc. Founded in the year 2019, we are a Sole Proprietorship company that is incepted with an objective of providing high quality products in diverse specifications within scheduled time period. Situated in Delhi (India), we manufacture the products in accordance with set industry norms.",
+                    "specs": [
+                        {
+                            "key": "Finish",
+                            "value": "Mirror Finish"
+                        },
+                        {
+                            "key": "Usage/Application",
+                            "value": "Advertisement"
+                        },
+                        {
+                            "key": "Material",
+                            "value": "Stainless Steel"
+                        },
+                        {
+                            "key": "Color",
+                            "value": "Golden"
+                        },
+                        {
+                            "key": "Mounting Type",
+                            "value": "Wall Mount"
+                        },
+                        {
+                            "key": "Features",
+                            "value": "Rust Proof"
+                        },
+                        {
+                            "key": "Country of Origin",
+                            "value": "Made in India"
+                        }
+                    ],
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2023/12/367241580/WX/NW/QV/29202208/product-jpeg-250x250.jpg"
+                    ]
+                },
+                {
+                    "name": "Acryil Sign Letter",
+                    "price": "Rs 105 / Inch",
+                    "description": "\u201cTaj Advertising\u201d is a distinguished Manufacturer of a wide range of SS Name Plate, Acrylic, Sign Board, etc. Founded in the year 2019, we are a Sole Proprietorship company that is incepted with an objective of providing high quality products in diverse specifications within scheduled time period. Situated in Delhi (India), we manufacture the products in accordance with set industry norms.",
+                    "specs": [
+                        {
+                            "key": "Material",
+                            "value": "Acrylic"
+                        },
+                        {
+                            "key": "Board Type",
+                            "value": "Outdoor"
+                        },
+                        {
+                            "key": "Color",
+                            "value": "White"
+                        },
+                        {
+                            "key": "Usage/Application",
+                            "value": "Advertising"
+                        },
+                        {
+                            "key": "Thickness",
+                            "value": "3.4 mm"
+                        },
+                        {
+                            "key": "Features",
+                            "value": "Eco Friendly"
+                        },
+                        {
+                            "key": "Country of Origin",
+                            "value": "Made in India"
+                        }
+                    ],
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2023/12/367241580/WX/NW/QV/29202208/product-jpeg-250x250.jpg"
+                    ]
+                },
+                {
+                    "name": "Solid Sign Letter",
+                    "price": "Rs 60 / Inch",
+                    "description": "12mm Solid Acrylic Sheet Lasar Cutting & with Installation On Wall \u201cTaj Advertising\u201d is a distinguished Manufacturer of a wide range of SS Name Plate, Acrylic, Sign Board, ACrylic Name Plate & LED Sign Board, SS304 Letter , Aluminum Letter & Golden SS Letter etc. Founded in the year 2019, we are a Sole Proprietorship company that is incepted with an objective of providing high quality products in diverse specifications within scheduled time period. Situated in Delhi (India), we manufacture the products in accordance with set industry norms.",
+                    "specs": [
+                        {
+                            "key": "Material",
+                            "value": "Acrylic"
+                        },
+                        {
+                            "key": "Color",
+                            "value": "White"
+                        },
+                        {
+                            "key": "Usage/Application",
+                            "value": "Advertising"
+                        },
+                        {
+                            "key": "Features",
+                            "value": "Eco Friendly"
+                        },
+                        {
+                            "key": "Country of Origin",
+                            "value": "Made in India"
+                        },
+                        {
+                            "key": "Brand",
+                            "value": "Taj Advertising"
+                        },
+                        {
+                            "key": "Mounted Type",
+                            "value": "Wall Mount"
+                        }
+                    ],
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2023/12/367241580/WX/NW/QV/29202208/product-jpeg-250x250.jpg"
+                    ]
+                },
+                {
+                    "name": "Acrylic 3D Letter",
+                    "price": "Rs 110 / Inch",
+                    "description": "3mm Acrylic Letter with Lasar Cutting 3\"inch raised & 4mm Sunboard with Letter traising Led Modules & Power Supply 600w Best Quality of Product made By Taj Advertising",
+                    "specs": [
+                        {
+                            "key": "Shape",
+                            "value": "Square"
+                        },
+                        {
+                            "key": "Packaging Type",
+                            "value": "Box"
+                        },
+                        {
+                            "key": "Board Type",
+                            "value": "Outdoor"
+                        },
+                        {
+                            "key": "Material",
+                            "value": "Acrylic"
+                        },
+                        {
+                            "key": "Color",
+                            "value": "White"
+                        },
+                        {
+                            "key": "Usage/Application",
+                            "value": "Advertising"
+                        },
+                        {
+                            "key": "Country of Origin",
+                            "value": "Made in India"
+                        },
+                        {
+                            "key": "Brand",
+                            "value": "Taj Advertising"
+                        }
+                    ],
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2023/12/367241580/WX/NW/QV/29202208/product-jpeg-250x250.jpg"
+                    ]
+                },
+                {
+                    "name": "Acrylic Sign Letter",
+                    "price": "Rs 110 / Running inch",
+                    "description": "3mm Acrylic Letter with Lasar Cutting 3\"inch raised & 4mm Sunboard with Letter traising Led Modules & Power Supply 600w Best Quality of Product made By Taj Advertising",
+                    "specs": [
+                        {
+                            "key": "Color",
+                            "value": "White"
+                        },
+                        {
+                            "key": "Usage/Application",
+                            "value": "Advertisement"
+                        },
+                        {
+                            "key": "Material",
+                            "value": "Acrylic"
+                        },
+                        {
+                            "key": "Thickness",
+                            "value": "3 mm"
+                        },
+                        {
+                            "key": "Country of Origin",
+                            "value": "Made in India"
+                        },
+                        {
+                            "key": "Brand",
+                            "value": "Taj Advertising"
+                        }
+                    ],
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2023/12/367241580/WX/NW/QV/29202208/product-jpeg-250x250.jpg"
+                    ]
+                },
+                {
+                    "name": "Stainless Steel Sign Letter",
+                    "price": "Rs 155 / Unit",
+                    "description": "We are successfully meeting the varied requirements of our clients by providing the best quality range of Stainless Steel Sign Letter. \u201cTaj Advertising\u201d is a distinguished Manufacturer of a wide range of SS Name Plate, Acrylic, Sign Board, ACrylic Name Plate & LED Sign Board, SS304 Letter , Aluminum Letter & Golden SS Letter etc. Founded in the year 2019, we are a Sole Proprietorship company that is incepted with an objective of providing high quality products in diverse specifications within scheduled time period. Situated in Delhi (India), we manufacture the products in accordance with set industry norms.",
+                    "specs": [
+                        {
+                            "key": "Finish",
+                            "value": "Paint Coated"
+                        },
+                        {
+                            "key": "Usage/Application",
+                            "value": "Advertisement"
+                        },
+                        {
+                            "key": "Material",
+                            "value": "Stainless Steel"
+                        },
+                        {
+                            "key": "Mounting Type",
+                            "value": "Wall Mount"
+                        },
+                        {
+                            "key": "Features",
+                            "value": "Rust Proof"
+                        },
+                        {
+                            "key": "Country of Origin",
+                            "value": "Made in India"
+                        },
+                        {
+                            "key": "Brand",
+                            "value": "Taj Advertising"
+                        }
+                    ],
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2023/12/367241580/WX/NW/QV/29202208/product-jpeg-250x250.jpg"
+                    ]
+                },
+                {
+                    "name": "3D Acrylic Letter",
+                    "price": "Rs 95 / INCH",
+                    "description": "\u201cTaj Advertising\u201d is a distinguished Manufacturer of a wide range of SS Name Plate, Acrylic, Sign Board, etc. Founded in the year 2019, we are a Sole Proprietorship company that is incepted with an objective of providing high quality products in diverse specifications within scheduled time period. Situated in Delhi (India), we manufacture the products in accordance with set industry norms.",
+                    "specs": [
+                        {
+                            "key": "Board Type",
+                            "value": "Outdoor"
+                        },
+                        {
+                            "key": "Material",
+                            "value": "Acrylic"
+                        },
+                        {
+                            "key": "Color",
+                            "value": "White"
+                        },
+                        {
+                            "key": "Usage/Application",
+                            "value": "Advertisement"
+                        },
+                        {
+                            "key": "Dimension",
+                            "value": "7'x2'"
+                        },
+                        {
+                            "key": "Country of Origin",
+                            "value": "Made in India"
+                        },
+                        {
+                            "key": "Brand",
+                            "value": "Taj Advertising"
+                        }
+                    ],
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2023/12/367241580/WX/NW/QV/29202208/product-jpeg-250x250.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "Acrylic Sign Boards",
+            "subProducts": [
+                {
+                    "name": "SS 304 Letters",
+                    "price": "Rs 145 / Square Inch",
+                    "description": "SS204 Letter With 3mm Acrylic Letter with Lasar Cutting 3\"inch raised & 4mm Sunboard with Letter traising Led Modules & Power Supply 600w Best Quality of Product made By Taj Advertising",
+                    "specs": [
+                        {
+                            "key": "Finish",
+                            "value": "Mirror Finish"
+                        },
+                        {
+                            "key": "Usage/Application",
+                            "value": "Advertisement"
+                        },
+                        {
+                            "key": "Material",
+                            "value": "Stainless Steel"
+                        },
+                        {
+                            "key": "Size",
+                            "value": "36 inch"
+                        },
+                        {
+                            "key": "Color",
+                            "value": "White"
+                        },
+                        {
+                            "key": "Country of Origin",
+                            "value": "Made in India"
+                        }
+                    ],
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2024/9/449911013/UZ/WX/BK/29202208/product-jpeg-250x250.jpg"
+                    ]
+                },
+                {
+                    "name": "Acrylic Sign Board",
+                    "price": "Rs 110 / Inch",
+                    "description": "4mm Acrylic Letter with Lasar Cutting 3\"inch raised & 4mm Sunboard with Letter traising Led Modules & Power Supply 600w Best Quality of Product made By Taj Advertising",
+                    "specs": [
+                        {
+                            "key": "Letter Type",
+                            "value": "3D Letter"
+                        },
+                        {
+                            "key": "Lighting Type",
+                            "value": "LED Frontlit"
+                        },
+                        {
+                            "key": "Usage/Application",
+                            "value": "Advertisement"
+                        },
+                        {
+                            "key": "Thickness",
+                            "value": "4mm Thickness"
+                        },
+                        {
+                            "key": "Color",
+                            "value": "White Colour"
+                        },
+                        {
+                            "key": "Shape",
+                            "value": "Square"
+                        },
+                        {
+                            "key": "Mounting Type",
+                            "value": "Spacers/Studs"
+                        },
+                        {
+                            "key": "Printing Method",
+                            "value": "Laser Engraved"
+                        },
+                        {
+                            "key": "Letter Material",
+                            "value": "Acrylic"
+                        },
+                        {
+                            "key": "Features",
+                            "value": "Waterproof"
+                        }
+                    ],
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2024/9/449911013/UZ/WX/BK/29202208/product-jpeg-250x250.jpg"
+                    ]
+                },
+                {
+                    "name": "Acrylic House Name Plate",
+                    "price": "Rs 4,500 / Piece",
+                    "description": "\u201cTaj Advertising\u201d is a distinguished Manufacturer of a wide range of SS Name Plate, Acrylic, Sign Board, etc. Founded in the year 2019, we are a Sole Proprietorship company that is incepted with an objective of providing high quality products in diverse specifications within scheduled time period. Situated in Delhi (India), we manufacture the products in accordance with set industry norms.",
+                    "specs": [
+                        {
+                            "key": "Is It Waterproof",
+                            "value": "yes"
+                        },
+                        {
+                            "key": "Sign Content",
+                            "value": "acraylic letter"
+                        },
+                        {
+                            "key": "IP Rating",
+                            "value": "5"
+                        },
+                        {
+                            "key": "Mounted Type",
+                            "value": "acrylic"
+                        },
+                        {
+                            "key": "Usage/Application",
+                            "value": "Office"
+                        },
+                        {
+                            "key": "Color",
+                            "value": "White"
+                        },
+                        {
+                            "key": "Material Of Name Plate",
+                            "value": "Acrylic"
+                        },
+                        {
+                            "key": "Features",
+                            "value": "acrylic"
+                        }
+                    ],
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2024/9/449911013/UZ/WX/BK/29202208/product-jpeg-250x250.jpg"
+                    ]
+                },
+                {
+                    "name": "Society Name Board",
+                    "price": "Rs 90 / Inch",
+                    "description": "SS304 , 20gauge Letter with Lasar Cutting 3\" inch raised ...Good Quality of Product.. made by Taj Advertising",
+                    "specs": [
+                        {
+                            "key": "Material Of Name Plate",
+                            "value": "Acrylic"
+                        },
+                        {
+                            "key": "Color",
+                            "value": "White"
+                        },
+                        {
+                            "key": "Ideal For",
+                            "value": "Client"
+                        },
+                        {
+                            "key": "Country of Origin",
+                            "value": "Made in India"
+                        },
+                        {
+                            "key": "Usage/Application",
+                            "value": "Hotel"
+                        }
+                    ],
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2024/9/449911013/UZ/WX/BK/29202208/product-jpeg-250x250.jpg"
+                    ]
+                },
+                {
+                    "name": "LED Name Plate For Home",
+                    "price": "Rs 10,500 / Piece",
+                    "description": "\u201cTaj Advertising\u201d is a distinguished Manufacturer of a wide range of SS Name Plate, Acrylic, Sign Board, etc. Founded in the year 2019, we are a Sole Proprietorship company that is incepted with an objective of providing high quality products in diverse specifications within scheduled time period. Situated in Delhi (India), we manufacture the products in accordance with set industry norms.",
+                    "specs": [
+                        {
+                            "key": "Thickness",
+                            "value": "4 mm"
+                        },
+                        {
+                            "key": "Color",
+                            "value": "Black"
+                        },
+                        {
+                            "key": "Material Of Name Plate",
+                            "value": "Acrylic"
+                        },
+                        {
+                            "key": "Country of Origin",
+                            "value": "Made in India"
+                        },
+                        {
+                            "key": "Usage/Application",
+                            "value": "Office"
+                        }
+                    ],
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2024/9/449911013/UZ/WX/BK/29202208/product-jpeg-250x250.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "SS Name Plate",
+            "subProducts": [
+                {
+                    "name": "Metal Name Plate",
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2022/11/CP/DQ/XL/29202208/product-jpeg-250x250.jpg"
+                    ]
+                },
+                {
+                    "name": "Stainless Steel Name Plate",
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2022/11/CP/DQ/XL/29202208/product-jpeg-250x250.jpg"
+                    ]
+                },
+                {
+                    "name": "Steel Name Plate",
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2022/11/CP/DQ/XL/29202208/product-jpeg-250x250.jpg"
+                    ]
+                },
+                {
+                    "name": "Steel Name Plates",
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2022/11/CP/DQ/XL/29202208/product-jpeg-250x250.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "SS Sign Board",
+            "subProducts": [
+                {
+                    "name": "SS 304 Letter",
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2020/12/UN/PF/QN/29202208/product-jpeg-250x250.jpg"
+                    ]
+                },
+                {
+                    "name": "SS Sign Letter",
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2020/12/UN/PF/QN/29202208/product-jpeg-250x250.jpg"
+                    ]
+                },
+                {
+                    "name": "SS Letter With SS Frame",
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2020/12/UN/PF/QN/29202208/product-jpeg-250x250.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "Frosted Glass Film",
+            "subProducts": [
+                {
+                    "name": "Glass Protective Film",
+                    "images": [
+                        "https://5.imimg.com/data5/SELLER/Default/2022/11/KD/QB/EC/29202208/sun-control-film-250x250.jpg"
+                    ]
+                },
+                {
+                    "name": "Frosted Glass Film",
+                    "images": [
+                        "https://5.imimg.com/data5/SELLER/Default/2022/11/KD/QB/EC/29202208/sun-control-film-250x250.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "Acrylic Name Plates",
+            "subProducts": [
+                {
+                    "name": "Acrylic Name Plate",
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2022/7/YS/IY/QA/29202208/product-jpeg-250x250.jpg"
+                    ]
+                },
+                {
+                    "name": "Stainless Steel House Name Plate",
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2022/7/YS/IY/QA/29202208/product-jpeg-250x250.jpg"
+                    ]
+                },
+                {
+                    "name": "Acrylic Name Board",
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2022/7/YS/IY/QA/29202208/product-jpeg-250x250.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "Acrylic Sign Letters",
+            "subProducts": [
+                {
+                    "name": "Acrylic Sign Letters",
+                    "images": [
+                        "https://5.imimg.com/data5/WQ/ZR/LQ/ANDROID-29202208/product-jpeg-250x250.jpg"
+                    ]
+                },
+                {
+                    "name": "Acrylic Sign Letter",
+                    "images": [
+                        "https://5.imimg.com/data5/WQ/ZR/LQ/ANDROID-29202208/product-jpeg-250x250.jpg"
+                    ]
+                },
+                {
+                    "name": "Acrylic Logo Sign Board",
+                    "images": [
+                        "https://5.imimg.com/data5/WQ/ZR/LQ/ANDROID-29202208/product-jpeg-250x250.jpg"
+                    ]
+                },
+                {
+                    "name": "3mm Acrylic Letter",
+                    "images": [
+                        "https://5.imimg.com/data5/WQ/ZR/LQ/ANDROID-29202208/product-jpeg-250x250.jpg"
+                    ]
+                },
+                {
+                    "name": "3D Acrylic Logo",
+                    "images": [
+                        "https://5.imimg.com/data5/WQ/ZR/LQ/ANDROID-29202208/product-jpeg-250x250.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "LED Letter Sign",
+            "subProducts": [
+                {
+                    "name": "SS 304 Letter",
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2022/7/WT/HJ/KZ/29202208/product-jpeg-250x250.jpg"
+                    ]
+                },
+                {
+                    "name": "Outdoor LED Sign Board",
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2022/7/WT/HJ/KZ/29202208/product-jpeg-250x250.jpg"
+                    ]
+                },
+                {
+                    "name": "Stainless Steel Alphabet Letter",
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2022/7/WT/HJ/KZ/29202208/product-jpeg-250x250.jpg"
+                    ]
+                },
+                {
+                    "name": "Stainless Steel Sign Letters",
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2022/7/WT/HJ/KZ/29202208/product-jpeg-250x250.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "Name Plate",
+            "subProducts": [
+                {
+                    "name": "LED House Name Plate",
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2025/5/509264855/CT/NE/IO/29202208/product-jpeg-250x250.jpg"
+                    ]
+                },
+                {
+                    "name": "Aluminium Name Plate",
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2025/5/509264855/CT/NE/IO/29202208/product-jpeg-250x250.jpg"
+                    ]
+                },
+                {
+                    "name": "Company Name Board",
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2025/5/509264855/CT/NE/IO/29202208/product-jpeg-250x250.jpg"
+                    ]
+                },
+                {
+                    "name": "Steel Name Plates",
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2025/5/509264855/CT/NE/IO/29202208/product-jpeg-250x250.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "ACP Sign Board",
+            "subProducts": [
+                {
+                    "name": "ACP Cladding With Acrylic Letters",
+                    "images": [
+                        "https://5.imimg.com/data5/SELLER/Default/2025/5/512852893/MT/CW/LY/29202208/acp-cladding-with-acrylic-letters-250x250.jpeg"
+                    ]
+                },
+                {
+                    "name": "ACP Sign Board",
+                    "images": [
+                        "https://5.imimg.com/data5/SELLER/Default/2025/5/512852893/MT/CW/LY/29202208/acp-cladding-with-acrylic-letters-250x250.jpeg"
+                    ]
+                },
+                {
+                    "name": "Safety Signage Board",
+                    "images": [
+                        "https://5.imimg.com/data5/SELLER/Default/2025/5/512852893/MT/CW/LY/29202208/acp-cladding-with-acrylic-letters-250x250.jpeg"
+                    ]
+                },
+                {
+                    "name": "2D ACP Sign Board",
+                    "images": [
+                        "https://5.imimg.com/data5/SELLER/Default/2025/5/512852893/MT/CW/LY/29202208/acp-cladding-with-acrylic-letters-250x250.jpeg"
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "World Map",
+            "subProducts": [
+                {
+                    "name": "Wooden World Map",
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2022/9/RO/SG/KF/29202208/product-jpeg-250x250.jpg"
+                    ]
+                },
+                {
+                    "name": "3D Wooden World Map",
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2022/9/RO/SG/KF/29202208/product-jpeg-250x250.jpg"
+                    ]
+                },
+                {
+                    "name": "3D World Map UV Print",
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2022/9/RO/SG/KF/29202208/product-jpeg-250x250.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "LED Sign Board",
+            "subProducts": [
+                {
+                    "name": "Stainless Steel Letter",
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2025/4/500716188/MW/YI/LA/29202208/product-jpeg-250x250.jpg"
+                    ]
+                },
+                {
+                    "name": "LED Sign Board",
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2025/4/500716188/MW/YI/LA/29202208/product-jpeg-250x250.jpg"
+                    ]
+                },
+                {
+                    "name": "Acrylic LED Name Plate",
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2025/4/500716188/MW/YI/LA/29202208/product-jpeg-250x250.jpg"
+                    ]
+                },
+                {
+                    "name": "Outdoor ACP Sign Board",
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2025/4/500716188/MW/YI/LA/29202208/product-jpeg-250x250.jpg"
+                    ]
+                },
+                {
+                    "name": "Fire Safety Signages",
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2025/4/500716188/MW/YI/LA/29202208/product-jpeg-250x250.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "Aluminium ACP Sheet Front Cladding Elevation",
+            "subProducts": [
+                {
+                    "name": "Aluminium ACP Cladding Service",
+                    "images": [
+                        "https://5.imimg.com/data5/SELLER/Default/2021/7/BW/XE/DK/29202208/acp-elevations-250x250.jpg"
+                    ]
+                },
+                {
+                    "name": "Wooden ACP Cladding",
+                    "images": [
+                        "https://5.imimg.com/data5/SELLER/Default/2021/7/BW/XE/DK/29202208/acp-elevations-250x250.jpg"
+                    ]
+                },
+                {
+                    "name": "Aluminum ACP Cladding Service",
+                    "images": [
+                        "https://5.imimg.com/data5/SELLER/Default/2021/7/BW/XE/DK/29202208/acp-elevations-250x250.jpg"
+                    ]
+                },
+                {
+                    "name": "Outdoor ACP Cladding",
+                    "images": [
+                        "https://5.imimg.com/data5/SELLER/Default/2021/7/BW/XE/DK/29202208/acp-elevations-250x250.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "Neon Signage",
+            "subProducts": [
+                {
+                    "name": "Neon Led Sign",
+                    "price": "\u20b9 750 / sq ft",
+                    "description": "Taj Advertising is a distinguished Manufacturer of a wide range of SS Name Plate, Acrylic, Sign Board, ACrylic Name Plate & LED Sign Board, SS304 Letter , Aluminum Letter & Golden SS Letter etc. Founded in the year 2019, we are a Sole Proprietorship company that is incepted with an objective of providing high quality products in diverse specifications within scheduled time period. Situated in Delhi (India), we manufacture the products in accordance with set industry norms.",
+                    "specs": [
+                        {
+                            "key": "Usage/Application",
+                            "value": "Advertising"
+                        },
+                        {
+                            "key": "Color",
+                            "value": "Pink"
+                        },
+                        {
+                            "key": "Display Function",
+                            "value": "Animation"
+                        },
+                        {
+                            "key": "Voltage",
+                            "value": "14 V"
+                        },
+                        {
+                            "key": "Brand",
+                            "value": "Taj Advertising"
+                        },
+                        {
+                            "key": "Thickness",
+                            "value": "3 mm"
+                        },
+                        {
+                            "key": "Country of Origin",
+                            "value": "Made in India"
+                        },
+                        {
+                            "key": "Availability",
+                            "value": "In Stock"
+                        }
+                    ],
+                    "additionalInfo": {
+                        "minimumOrderQuantity": "Not specified",
+                        "itemCode": "Not specified",
+                        "productionCapacity": "Not specified",
+                        "deliveryTime": "Not specified"
+                    },
+                    "images": [
+                        "https://5.imimg.com/data5/SELLER/Default/2022/7/RP/BZ/GA/29202208/new-product-250x250.jpeg",
+                        "https://5.imimg.com/data5/SELLER/Default/2022/7/RP/BZ/GA/29202208/new-product-500x500.jpeg",
+                        "https://5.imimg.com/data5/SELLER/Default/2022/7/RP/BZ/GA/29202208/neon-sign-preview-250x250.jpg"
+                    ]
+                },
+                {
+                    "name": "Neon Light Boards",
+                    "price": "\u20b9 650 / Piece",
+                    "description": "Being a leader in the industry, we are engaged in offering a qualitative range of Rectangle LED Glow Sign Board to our customers.",
+                    "specs": [
+                        {
+                            "key": "Application",
+                            "value": "Indoor"
+                        },
+                        {
+                            "key": "Light Source",
+                            "value": "LED Flex"
+                        },
+                        {
+                            "key": "Backing Material",
+                            "value": "Acrylic"
+                        },
+                        {
+                            "key": "Body Material",
+                            "value": "Polycarbonate"
+                        },
+                        {
+                            "key": "Lighting Type",
+                            "value": "Fluorescent"
+                        },
+                        {
+                            "key": "Color",
+                            "value": "Red"
+                        },
+                        {
+                            "key": "Usage/Application",
+                            "value": "Advertising"
+                        },
+                        {
+                            "key": "Brand",
+                            "value": "Taj Advertising"
+                        },
+                        {
+                            "key": "Power",
+                            "value": "220 V"
+                        },
+                        {
+                            "key": "Country of Origin",
+                            "value": "Made in India"
+                        },
+                        {
+                            "key": "Availability",
+                            "value": "In Stock"
+                        }
+                    ],
+                    "additionalInfo": {
+                        "minimumOrderQuantity": "2500 Piece",
+                        "itemCode": "15869",
+                        "productionCapacity": "good",
+                        "deliveryTime": "4 days"
+                    },
+                    "images": [
+                        "https://5.imimg.com/data5/SELLER/Default/2022/7/RP/BZ/GA/29202208/new-product-250x250.jpeg",
+                        "https://5.imimg.com/data5/SELLER/Default/2022/7/RP/BZ/GA/29202208/glow-board-250x250.jpg",
+                        "https://5.imimg.com/data5/SELLER/Default/2022/7/RP/BZ/GA/29202208/neon-light-500x500.jpg",
+                        "https://5.imimg.com/data5/SELLER/Default/2022/7/RP/BZ/GA/29202208/red-neon-preview-250x250.jpg"
+                    ]
+                },
+                {
+                    "name": "Customized Neon Board",
+                    "price": "\u20b9 650 / Square Feet",
+                    "description": "Taj Advertising is a distinguished Manufacturer of a wide range of SS Name Plate, Acrylic, Sign Board, etc. Founded in the year 2019, we are a Sole Proprietorship company that is incepted with an objective of providing high quality products in diverse specifications within scheduled time period. Situated in Delhi (India), we manufacture the products in accordance with set industry norms.",
+                    "specs": [
+                        {
+                            "key": "Lighting Type",
+                            "value": "LED"
+                        },
+                        {
+                            "key": "Usage/Application",
+                            "value": "Advertising"
+                        },
+                        {
+                            "key": "Thickness",
+                            "value": "12mm"
+                        },
+                        {
+                            "key": "Power",
+                            "value": "12 DC"
+                        },
+                        {
+                            "key": "Is It Water Proof",
+                            "value": "Water Proof"
+                        },
+                        {
+                            "key": "Body Material",
+                            "value": "Acrylic"
+                        },
+                        {
+                            "key": "Availability",
+                            "value": "In Stock"
+                        }
+                    ],
+                    "additionalInfo": {
+                        "minimumOrderQuantity": "2 Square Feet",
+                        "itemCode": "7601",
+                        "productionCapacity": "2 years",
+                        "deliveryTime": "5 days",
+                        "packagingDetails": "by road"
+                    },
+                    "images": [
+                        "https://5.imimg.com/data5/SELLER/Default/2022/7/RP/BZ/GA/29202208/new-product-250x250.jpeg",
+                        "https://5.imimg.com/data5/SELLER/Default/2022/7/RP/BZ/GA/29202208/custom-neon-250x250.jpg",
+                        "https://5.imimg.com/data5/SELLER/Default/2022/7/RP/BZ/GA/29202208/acrylic-board-500x500.jpg",
+                        "https://5.imimg.com/data5/SELLER/Default/2022/7/RP/BZ/GA/29202208/waterproof-sign-250x250.jpg",
+                        "https://5.imimg.com/data5/SELLER/Default/2022/7/RP/BZ/GA/29202208/customized-preview-250x250.jpg"
+                    ]
+                },
+                {
+                    "name": "Neon Board",
+                    "price": "\u20b9 750 / sq ft",
+                    "description": "LED Neon Sign Board. Base Clear Acrylic Sheet Custom Size and designs used for home, hotels and party places",
+                    "specs": [
+                        {
+                            "key": "Body Material",
+                            "value": "Acrylic"
+                        },
+                        {
+                            "key": "Lighting Type",
+                            "value": "LED"
+                        },
+                        {
+                            "key": "Color",
+                            "value": "White"
+                        },
+                        {
+                            "key": "Usage/Application",
+                            "value": "Promotion"
+                        },
+                        {
+                            "key": "Voltage",
+                            "value": "12 DC"
+                        },
+                        {
+                            "key": "Light Color",
+                            "value": "Purple"
+                        },
+                        {
+                            "key": "Product Capacity",
+                            "value": "3 years"
+                        },
+                        {
+                            "key": "Delivery Time",
+                            "value": "5 days"
+                        },
+                        {
+                            "key": "Packaging Details",
+                            "value": "babbles with shipped by road"
+                        }
+                    ],
+                    "additionalInfo": {
+                        "minimumOrderQuantity": "1 sq ft",
+                        "itemCode": "8301",
+                        "productionCapacity": "3 years",
+                        "deliveryTime": "5 days",
+                        "packagingDetails": "babbles with shipped by road"
+                    },
+                    "images": [
+                        "https://5.imimg.com/data5/SELLER/Default/2022/7/RP/BZ/GA/29202208/new-product-250x250.jpeg",
+                        "https://5.imimg.com/data5/SELLER/Default/2022/7/RP/BZ/GA/29202208/led-acrylic-250x250.jpg",
+                        "https://5.imimg.com/data5/SELLER/Default/2022/7/RP/BZ/GA/29202208/purple-light-500x500.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "Channel Letters",
+            "subProducts": [
+                {
+                    "name": "Aluminium Channel Letter",
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2020/11/IW/WQ/AV/29202208/product-jpeg-250x250.jpg"
+                    ]
+                },
+                {
+                    "name": "Aluminum LED Letters",
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2020/11/IW/WQ/AV/29202208/product-jpeg-250x250.jpg"
+                    ]
+                },
+                {
+                    "name": "Aluminium Letter Sign Board",
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2020/11/IW/WQ/AV/29202208/product-jpeg-250x250.jpg"
+                    ]
+                },
+                {
+                    "name": "Aluminium Profile Letters",
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2020/11/IW/WQ/AV/29202208/product-jpeg-250x250.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "Golden SS Letter",
+            "subProducts": [
+                {
+                    "name": "SS Golden Letter Back Light",
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2020/10/LJ/MN/CC/29202208/product-jpeg-250x250.jpg"
+                    ]
+                },
+                {
+                    "name": "Golden SS Letter",
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2020/10/LJ/MN/CC/29202208/product-jpeg-250x250.jpg"
+                    ]
+                },
+                {
+                    "name": "SS Letter Board",
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2020/10/LJ/MN/CC/29202208/product-jpeg-250x250.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "LED Board",
+            "subProducts": [
+                {
+                    "name": "Steel Letter Board",
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2025/4/500716010/KU/CF/XG/29202208/product-jpeg-250x250.jpg"
+                    ]
+                },
+                {
+                    "name": "Shop Name Board",
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2025/4/500716010/KU/CF/XG/29202208/product-jpeg-250x250.jpg"
+                    ]
+                },
+                {
+                    "name": "LED Sign Board",
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2025/4/500716010/KU/CF/XG/29202208/product-jpeg-250x250.jpg"
+                    ]
+                },
+                {
+                    "name": "Acrylic LED Sing Letters",
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2025/4/500716010/KU/CF/XG/29202208/product-jpeg-250x250.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "Acrylic LED Sing Letters",
+            "subProducts": [
+                {
+                    "name": "SS304 With Acrylic Letter Letter",
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2021/10/ZW/MK/EG/29202208/product-jpeg-250x250.jpg"
+                    ]
+                },
+                {
+                    "name": "Acrylic Letter Sign",
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2021/10/ZW/MK/EG/29202208/product-jpeg-250x250.jpg"
+                    ]
+                },
+                {
+                    "name": "3 Feet Acrylic 3D Letter",
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2021/10/ZW/MK/EG/29202208/product-jpeg-250x250.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "Acrylic Letters",
+            "subProducts": [
+                {
+                    "name": "Acrylic Solid Letters",
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2025/9/549056367/BM/UU/UG/29202208/product-jpeg-250x250.jpg"
+                    ]
+                },
+                {
+                    "name": "Acrylic Letter",
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2025/9/549056367/BM/UU/UG/29202208/product-jpeg-250x250.jpg"
+                    ]
+                },
+                {
+                    "name": "LED Acrylic Letter Glow Sign Board",
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2025/9/549056367/BM/UU/UG/29202208/product-jpeg-250x250.jpg"
+                    ]
+                },
+                {
+                    "name": "3D Acrylic Letter",
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2025/9/549056367/BM/UU/UG/29202208/product-jpeg-250x250.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "3D Acrylic Letter",
+            "subProducts": [
+                {
+                    "name": "3D LED Acrylic Letter",
+                    "images": [
+                        "https://5.imimg.com/data5/SELLER/Default/2020/10/CU/XS/RB/29202208/all-shapes-3d-led-acrylic-letter-250x250.jpg"
+                    ]
+                },
+                {
+                    "name": "Acrylic 3D Letter",
+                    "images": [
+                        "https://5.imimg.com/data5/SELLER/Default/2020/10/CU/XS/RB/29202208/all-shapes-3d-led-acrylic-letter-250x250.jpg"
+                    ]
+                },
+                {
+                    "name": "3D Acrylic LED Letter",
+                    "images": [
+                        "https://5.imimg.com/data5/SELLER/Default/2020/10/CU/XS/RB/29202208/all-shapes-3d-led-acrylic-letter-250x250.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "Metal Letters",
+            "subProducts": [
+                {
+                    "name": "Acrylic Solid Letters",
+                    "images": [
+                        "https://5.imimg.com/data5/SELLER/Default/2022/7/AH/YE/BR/29202208/new-product-250x250.jpeg"
+                    ]
+                },
+                {
+                    "name": "Rustic Metal Letter",
+                    "images": [
+                        "https://5.imimg.com/data5/SELLER/Default/2022/7/AH/YE/BR/29202208/new-product-250x250.jpeg"
+                    ]
+                },
+                {
+                    "name": "MS Letter with Green Grass",
+                    "images": [
+                        "https://5.imimg.com/data5/SELLER/Default/2022/7/AH/YE/BR/29202208/new-product-250x250.jpeg"
+                    ]
+                },
+                {
+                    "name": "Brass Letters",
+                    "images": [
+                        "https://5.imimg.com/data5/SELLER/Default/2022/7/AH/YE/BR/29202208/new-product-250x250.jpeg"
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "Brass Letters",
+            "subProducts": [
+                {
+                    "name": "12mm Red Solid Letter",
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2022/9/KE/PA/HT/29202208/product-jpeg-250x250.jpg"
+                    ]
+                },
+                {
+                    "name": "12mm Solid Acrylic Brass Letter",
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2022/9/KE/PA/HT/29202208/product-jpeg-250x250.jpg"
+                    ]
+                },
+                {
+                    "name": "Brass Letter",
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2022/9/KE/PA/HT/29202208/product-jpeg-250x250.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "Indoor Outdoor Display",
+            "subProducts": [
+                {
+                    "name": "Outdoor LED Screen",
+                    "images": [
+                        "https://5.imimg.com/data5/DS/GH/EM/SELLER-29202208/advertising-outdoor-led-display-screen-250x250.jpeg"
+                    ]
+                },
+                {
+                    "name": "ACP 3D Sign Board",
+                    "images": [
+                        "https://5.imimg.com/data5/DS/GH/EM/SELLER-29202208/advertising-outdoor-led-display-screen-250x250.jpeg"
+                    ]
+                },
+                {
+                    "name": "Aluminium Channel Letter",
+                    "images": [
+                        "https://5.imimg.com/data5/DS/GH/EM/SELLER-29202208/advertising-outdoor-led-display-screen-250x250.jpeg"
+                    ]
+                },
+                {
+                    "name": "HPL Cladding Sheets",
+                    "images": [
+                        "https://5.imimg.com/data5/DS/GH/EM/SELLER-29202208/advertising-outdoor-led-display-screen-250x250.jpeg"
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "HPL Cladding Sheets",
+            "subProducts": [
+                {
+                    "name": "HPL Sheet Cladding Work",
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2021/9/GX/ON/YH/29202208/product-jpeg-250x250.jpg"
+                    ]
+                },
+                {
+                    "name": "HPL Cladding",
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2021/9/GX/ON/YH/29202208/product-jpeg-250x250.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "3D Letter",
+            "subProducts": [
+                {
+                    "name": "LED Acrylic Letter",
+                    "images": [
+                        "https://5.imimg.com/data5/IK/WQ/MI/SELLER-29202208/whatsapp-image-2019-12-11-at-11-12-37-pm-250x250.jpeg"
+                    ]
+                },
+                {
+                    "name": "3D Acrylic Letter",
+                    "images": [
+                        "https://5.imimg.com/data5/IK/WQ/MI/SELLER-29202208/whatsapp-image-2019-12-11-at-11-12-37-pm-250x250.jpeg"
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "Stainless Steel Etched Nameplates",
+            "subProducts": [
+                {
+                    "name": "SS 304 Name Plate",
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2020/9/ED/CC/XH/29202208/product-jpeg-250x250.jpg"
+                    ]
+                },
+                {
+                    "name": "House Name Plate",
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2020/9/ED/CC/XH/29202208/product-jpeg-250x250.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "Acrylic LED Sign Board",
+            "subProducts": [
+                {
+                    "name": "Acrylic LED Sign Board",
+                    "images": [
+                        "https://5.imimg.com/data5/SELLER/Default/2025/5/508793776/BK/VU/UI/29202208/acrylic-led-sign-board-250x250.jpeg"
+                    ]
+                },
+                {
+                    "name": "LED Glow Sign Board",
+                    "images": [
+                        "https://5.imimg.com/data5/SELLER/Default/2025/5/508793776/BK/VU/UI/29202208/acrylic-led-sign-board-250x250.jpeg"
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "Korean World Map",
+            "subProducts": [
+                {
+                    "name": "LED World Map",
+                    "images": [
+                        "https://5.imimg.com/data5/SELLER/Default/2022/7/XL/VB/RR/29202208/new-product-250x250.jpeg"
+                    ]
+                },
+                {
+                    "name": "Korean World Map",
+                    "images": [
+                        "https://5.imimg.com/data5/SELLER/Default/2022/7/XL/VB/RR/29202208/new-product-250x250.jpeg"
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "SS Metal Numbering",
+            "subProducts": [
+                {
+                    "name": "SS304 Letter with Acrylic Sheet",
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2024/3/401067663/MZ/QG/HS/29202208/product-jpeg-250x250.jpg"
+                    ]
+                },
+                {
+                    "name": "SS304 Letter",
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2024/3/401067663/MZ/QG/HS/29202208/product-jpeg-250x250.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "Retro Reflective Sign Board",
+            "subProducts": [
+                {
+                    "name": "Retro Reflective Sign Board",
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2024/2/389687546/XW/BB/DC/29202208/product-jpeg-250x250.jpg"
+                    ]
+                },
+                {
+                    "name": "Traffic Retro Reflective Board",
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2024/2/389687546/XW/BB/DC/29202208/product-jpeg-250x250.jpg"
+                    ]
+                },
+                {
+                    "name": "Safety Signage",
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2024/2/389687546/XW/BB/DC/29202208/product-jpeg-250x250.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "ACP Elevation Design",
+            "subProducts": [
+                {
+                    "name": "ACP Elevation Sign Board",
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2021/12/WI/FS/HW/29202208/product-jpeg-250x250.jpg"
+                    ]
+                },
+                {
+                    "name": "Outdoor ACP Cladding",
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2021/12/WI/FS/HW/29202208/product-jpeg-250x250.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "One Way Vision Films",
+            "subProducts": [
+                {
+                    "name": "One Way Vision",
+                    "images": [
+                        "https://5.imimg.com/data5/SELLER/Default/2022/7/AA/HE/TA/29202208/new-product-250x250.jpeg"
+                    ]
+                },
+                {
+                    "name": "One Way Vision Films",
+                    "images": [
+                        "https://5.imimg.com/data5/SELLER/Default/2022/7/AA/HE/TA/29202208/new-product-250x250.jpeg"
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "Aluminium Letter",
+            "subProducts": [
+                {
+                    "name": "Aluminium Trimcap Letters",
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2024/2/389685645/NW/AH/FL/29202208/product-jpeg-250x250.jpg"
+                    ]
+                },
+                {
+                    "name": "Aluminium Letter",
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2024/2/389685645/NW/AH/FL/29202208/product-jpeg-250x250.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "Aerocon Panel Work Service",
+            "subProducts": [
+                {
+                    "name": "ACP Cladding Service",
+                    "images": [
+                        "https://5.imimg.com/data5/SELLER/Default/2025/5/508789160/QK/TW/ZW/29202208/acp-cladding-service-250x250.jpeg"
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "Acrylic Map",
+            "subProducts": [
+                {
+                    "name": "Acrylic World Map",
+                    "images": [
+                        "https://5.imimg.com/data5/MZ/MM/WN/ANDROID-29202208/product-jpeg-250x250.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "Metal Logo Signage",
+            "subProducts": [
+                {
+                    "name": "Acrylic Logo Sign",
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2020/8/HE/PC/GC/29202208/product-jpeg-250x250.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "LED Signage Boards",
+            "subProducts": [
+                {
+                    "name": "LED Signage Board",
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2023/12/367241659/VK/DX/XJ/29202208/product-jpeg-250x250.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "Acrylic Signage",
+            "subProducts": [
+                {
+                    "name": "Acrylic Name Plate",
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2025/10/554134819/DA/RV/GU/29202208/product-jpeg-250x250.jpg"
+                    ]
+                },
+                {
+                    "name": "3D Acrylic Logo",
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2025/10/554134819/DA/RV/GU/29202208/product-jpeg-250x250.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "Aluminium ACP Cladding Work",
+            "subProducts": [
+                {
+                    "name": "ACP Sheet Cladding Work",
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2021/10/SS/DG/PM/29202208/product-jpeg-250x250.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "One-way Vision",
+            "subProducts": [
+                {
+                    "name": "One Way Vision",
+                    "images": [
+                        "https://5.imimg.com/data5/SELLER/Default/2022/7/UE/EX/NJ/29202208/new-product-250x250.jpeg"
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "Neon Sign Board",
+            "subProducts": [
+                {
+                    "name": "Neon Sign Board",
+                    "images": [
+                        "https://5.imimg.com/data5/IL/KK/GT/SELLER-29202208/led-3d-acrylic-letter-board-250x250.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "LED Screen",
+            "subProducts": [
+                {
+                    "name": "LED Screen",
+                    "images": [
+                        "https://5.imimg.com/data5/SELLER/Default/2020/10/SI/CD/ER/29202208/whatsapp-image-2020-10-05-at-11-44-44-am-250x250.jpeg"
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "HPL Elevation Cladding",
+            "subProducts": [
+                {
+                    "name": "HPL Facade Cladding",
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2021/11/YH/BA/MR/29202208/product-jpeg-250x250.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "Vinyl Film",
+            "subProducts": [
+                {
+                    "name": "Vinyl Vehicle Wraps",
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2022/6/LU/YB/QJ/29202208/product-jpeg-250x250.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "Metallic Letters",
+            "subProducts": [
+                {
+                    "name": "3D Metal Letters",
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2025/5/513597610/JS/FV/XZ/29202208/product-jpeg-250x250.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "Acrylic Metal Letters Board",
+            "subProducts": [
+                {
+                    "name": "Solid Acrylic Engraved Letters",
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2020/9/OF/UA/JC/29202208/product-jpeg-250x250.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "Totem Signage",
+            "subProducts": [
+                {
+                    "name": "Totem Signage",
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2023/7/326144662/KO/HD/QM/29202208/product-jpeg-250x250.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "Artificial Grasses",
+            "subProducts": [
+                {
+                    "name": "MS Letter With Green Grass",
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2025/8/537573573/UR/PD/RQ/29202208/product-jpeg-250x250.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "ACP Sheet Structural Work",
+            "subProducts": [
+                {
+                    "name": "ACP Sheet Border Work",
+                    "images": [
+                        "https://5.imimg.com/data5/ANDROID/Default/2025/8/537576520/AD/ZK/PV/29202208/product-jpeg-250x250.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "Fabric Board",
+            "subProducts": [
+                {
+                    "name": "Polyester Fabric Boards",
+                    "images": [
+                        "https://5.imimg.com/data5/AS/KV/GJ/ANDROID-29202208/product-jpeg-250x250.jpg"
+                    ]
+                }
+            ]
+        }
+    ]
+}

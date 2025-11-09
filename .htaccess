@@ -1,0 +1,29 @@
+# Enable rewrite engine
+RewriteEngine On
+
+# Serve from build/ as root
+RewriteCond %{REQUEST_URI} !^/build/
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ build/$1 [L]
+
+# Fallback to index.html for SPA routes (e.g., /products)
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . build/index.html [L]
+
+# Deny access to sensitive files (add more as needed)
+<Files ~ "^.*\.json$">
+    Order allow,deny
+    Deny from all
+</Files>
+<Files ~ "^\.htaccess$">
+    Order allow,deny
+    Deny from all
+</Files>
+
+# Allow PHP files and API
+<FilesMatch "\.(php|json)$">
+    Order allow,deny
+    Allow from all
+</FilesMatch>
