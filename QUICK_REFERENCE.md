@@ -94,7 +94,7 @@ npm install
 
 ### Frontend (Already Live ✅)
 
-- **URL:** https://www.indiaadvertising.com
+- **URL:** https://www.indiadvertising.com
 - **How:** GitHub Pages (auto-updates on git push)
 - **Status:** 24/7 online
 
@@ -231,7 +231,7 @@ Your India Advertising Platform is:
 - ✅ Documented
 - ✅ Ready for clients
 
-**Start here:** Visit https://www.indiaadvertising.com
+**Start here:** Visit https://www.indiadvertising.com
 
 ---
 

@@ -236,7 +236,7 @@ Should show: `✅ Email sent successfully!`
 
 The frontend is automatically deployed to GitHub Pages when you push to the `main` branch.
 
-**Live URL:** https://www.indiaadvertising.com
+**Live URL:** https://www.indiadvertising.com
 
 ### Backend Deployment Options
 
@@ -384,7 +384,7 @@ advertising/
 - ✅ Client testimonials section
 - ✅ Gallery with image uploads
 - ✅ GitHub Pages deployment configured
-- ✅ Custom domain (www.indiaadvertising.com)
+- ✅ Custom domain (www.indiadvertising.com)
 - ✅ Production-ready optimized builds
 
 ---

@@ -1,0 +1,46 @@
+name: Build & Deploy Frontend
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "18"
+
+      - name: Install frontend dependencies
+        working-directory: ./indiaadvertising
+        run: |
+          npm ci
+
+      - name: Build frontend with production API base
+        working-directory: ./indiaadvertising
+        env:
+          REACT_APP_API_BASE: ${{ secrets.PRODUCTION_API_BASE }}
+        run: |
+          echo "Using REACT_APP_API_BASE=${REACT_APP_API_BASE}"
+          npm run build
+
+      - name: Deploy to GitHub Pages (gh-pages branch)
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./indiaadvertising/build
+          # keep_branch: true
+
+      - name: Confirm deployment info
+        run: |
+          echo "Frontend built and published to gh-pages branch."
+          if [ -z "${{ secrets.PRODUCTION_API_BASE }}" ]; then
+            echo "WARNING: PRODUCTION_API_BASE is not set. Frontend will be built with an empty API_BASE and may point to localhost.";
+          else
+            echo "PRODUCTION_API_BASE set to: ${{ secrets.PRODUCTION_API_BASE }}";
+          fi
