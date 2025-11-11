@@ -13,6 +13,7 @@
 ## ✨ Key Features
 
 ### Frontend (React)
+
 - **Responsive Design** - Mobile-first approach using Tailwind CSS
 - **Contact Form** - Email integration with real-time success/error feedback
 - **Product Showcase** - Dynamic product cards with quote request modal
@@ -25,6 +26,7 @@
 - **Email Notifications** - Real-time email delivery via SMTP
 
 ### Backend (Node.js/Express)
+
 - **RESTful API** - Complete endpoints for data management
 - **Email Service** - Nodemailer SMTP integration with Gmail
 - **Data Persistence** - JSON-based data storage with file operations
@@ -33,6 +35,7 @@
 - **Environment Configuration** - Flexible setup via .env variables
 
 ### Database & Storage
+
 - **JSON-based Storage** - `companyData.json` for products, categories, clients
 - **File System** - Uploads directory for images and documents
 - **No External DB Required** - Simplified deployment
@@ -42,6 +45,7 @@
 ## 📦 Build Information
 
 ### Frontend Build
+
 ```
 React Build (v1.0.0)
 - Main JS Bundle: 98.12 kB (gzipped)
@@ -52,6 +56,7 @@ React Build (v1.0.0)
 ```
 
 ### Backend
+
 ```
 Node.js Backend (v1.0.0)
 - Framework: Express.js
@@ -66,6 +71,7 @@ Node.js Backend (v1.0.0)
 ## 🚀 Quick Start Guide
 
 ### Prerequisites
+
 - **Node.js** 14.0.0 or higher
 - **npm** 6.0.0 or higher
 - **Gmail Account** with App Password (for email functionality)
@@ -73,20 +79,24 @@ Node.js Backend (v1.0.0)
 ### Option 1: Local Development Setup
 
 #### Frontend Setup
+
 ```bash
 cd indiaadvertising
 npm install
 npm start
 ```
+
 Runs on: `http://localhost:3000`
 
 #### Backend Setup
+
 ```bash
 cd india-advertising-node
 npm install
 ```
 
 Create `.env` file:
+
 ```env
 PORT=5000
 GMAIL_USER=your-email@gmail.com
@@ -95,9 +105,11 @@ NODE_ENV=development
 ```
 
 Start server:
+
 ```bash
 npm start
 ```
+
 Runs on: `http://localhost:5000`
 
 ---
@@ -105,9 +117,11 @@ Runs on: `http://localhost:5000`
 ## 📚 API Documentation
 
 ### Contact/Quote Submission
+
 **Endpoint:** `POST /api/sendQuote`
 
 **Request Body:**
+
 ```json
 {
   "name": "John Doe",
@@ -119,6 +133,7 @@ Runs on: `http://localhost:5000`
 ```
 
 **Response:**
+
 ```json
 {
   "success": true,
@@ -127,19 +142,24 @@ Runs on: `http://localhost:5000`
 ```
 
 ### Get Data
+
 **Endpoint:** `GET /api/getData`
 
 **Response:** Returns all products, categories, clients, and gallery items
 
 ### Update Data
+
 **Endpoint:** `POST /api/updateData`
 
 **Request Body:**
+
 ```json
 {
   "type": "products|categories|clients|gallery",
   "action": "add|edit|delete",
-  "data": { /* respective data object */ }
+  "data": {
+    /* respective data object */
+  }
 }
 ```
 
@@ -148,6 +168,7 @@ Runs on: `http://localhost:5000`
 ## 🔧 Email Configuration
 
 ### Gmail Setup (Required)
+
 1. Enable 2-Factor Authentication on Gmail
 2. Create App Password:
    - Go to `myaccount.google.com/apppasswords`
@@ -160,10 +181,12 @@ Runs on: `http://localhost:5000`
    ```
 
 ### Test Email System
+
 ```bash
 cd india-advertising-node
 node TEST_EMAIL.js
 ```
+
 Should show: `✅ Email sent successfully!`
 
 ---
@@ -171,6 +194,7 @@ Should show: `✅ Email sent successfully!`
 ## 📊 Admin Dashboard
 
 ### Access
+
 1. Open frontend at `http://localhost:3000`
 2. Scroll to bottom for Admin Dashboard
 3. Use dashboard to manage all content
@@ -178,24 +202,28 @@ Should show: `✅ Email sent successfully!`
 ### Operations
 
 **Products Tab:**
+
 - View all products in grid layout
 - Add new product (requires category selection)
 - Edit existing product details
 - Delete products
 
 **Categories Tab:**
+
 - Manage product categories
 - Add new categories
 - Edit category names
 - Delete categories
 
 **Clients Tab:**
+
 - Add client testimonials/references
 - Edit client information
 - Delete client entries
 - Simplified name-only interface
 
 **Gallery Tab:**
+
 - Upload images
 - Manage gallery items
 - Display on frontend
@@ -205,6 +233,7 @@ Should show: `✅ Email sent successfully!`
 ## 🌐 Deployment
 
 ### GitHub Pages (Frontend)
+
 The frontend is automatically deployed to GitHub Pages when you push to the `main` branch.
 
 **Live URL:** https://www.indiaadvertising.com
@@ -212,6 +241,7 @@ The frontend is automatically deployed to GitHub Pages when you push to the `mai
 ### Backend Deployment Options
 
 #### Option A: Render.com (Recommended)
+
 1. Push code to GitHub
 2. Connect Render to GitHub repo
 3. Create Web Service from `india-advertising-node`
@@ -219,12 +249,14 @@ The frontend is automatically deployed to GitHub Pages when you push to the `mai
 5. Deploy
 
 #### Option B: Railway.app
+
 1. Connect GitHub account
 2. Select `india-advertising-node` directory
 3. Add environment variables
 4. Deploy automatically on git push
 
 #### Option C: Heroku
+
 ```bash
 cd india-advertising-node
 heroku create your-app-name
@@ -234,6 +266,7 @@ git push heroku main
 ```
 
 #### Option D: DigitalOcean/VPS
+
 1. SSH into server
 2. Install Node.js and npm
 3. Clone repository
@@ -305,27 +338,32 @@ advertising/
 ## 🐛 Troubleshooting
 
 ### "Failed to send" error on contact form
+
 - **Check:** Backend running on port 5000
 - **Check:** `.env` file has correct GMAIL_USER and GMAIL_PASS
 - **Check:** Gmail App Password is 16 characters (no spaces)
 - **Fix:** Restart Node server: `npm start`
 
 ### "Cannot GET /api/sendQuote"
+
 - **Check:** Backend API is running
 - **Check:** Correct API URL in Contact.js: `http://localhost:5000/api/sendQuote`
 - **Fix:** Restart backend server
 
 ### Admin Dashboard not showing
+
 - **Check:** Frontend loaded successfully
 - **Check:** Scroll to bottom of page
 - **Fix:** Check browser console for errors (F12)
 
 ### Images not uploading
+
 - **Check:** `uploads/` directory exists and is writable
 - **Check:** File size not exceeding limit
 - **Check:** Supported image formats (JPG, PNG, GIF)
 
 ### Email not being received
+
 - **Check:** Gmail address in `GMAIL_USER` is correct
 - **Check:** Gmail App Password (not regular password)
 - **Check:** 2-Factor Authentication enabled
@@ -336,6 +374,7 @@ advertising/
 ## 📝 Version History
 
 ### v1.0.0 (November 11, 2025) - CURRENT
+
 - ✅ Complete React frontend with responsive design
 - ✅ Node.js/Express backend with REST API
 - ✅ Email integration with Nodemailer/Gmail
@@ -363,6 +402,7 @@ advertising/
 ## 📞 Support & Contact
 
 For issues or questions:
+
 1. Check troubleshooting section above
 2. Review browser console for errors (F12)
 3. Check backend logs: `npm start` (watch console output)

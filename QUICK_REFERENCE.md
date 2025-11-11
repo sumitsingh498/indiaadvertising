@@ -3,6 +3,7 @@
 ## 🚀 Start Local Development
 
 ### Terminal 1 - Backend
+
 ```bash
 cd e:\advertising\india-advertising-node
 npm start
@@ -10,6 +11,7 @@ npm start
 ```
 
 ### Terminal 2 - Frontend
+
 ```bash
 cd e:\advertising\indiaadvertising
 npm start
@@ -22,19 +24,20 @@ npm start
 
 ## 📁 Key Files
 
-| File | Purpose | Status |
-|------|---------|--------|
-| `india-advertising-node/index.js` | Backend API | ✅ Working |
-| `indiaadvertising/src/components/Contact.js` | Contact form | ✅ Fixed |
-| `indiaadvertising/src/components/Products.js` | Quote modal | ✅ Fixed |
-| `indiaadvertising/src/components/AdminDashboard.js` | Admin panel | ✅ Fixed |
-| `india-advertising-node/.env` | Config variables | ✅ Set |
+| File                                                | Purpose          | Status     |
+| --------------------------------------------------- | ---------------- | ---------- |
+| `india-advertising-node/index.js`                   | Backend API      | ✅ Working |
+| `indiaadvertising/src/components/Contact.js`        | Contact form     | ✅ Fixed   |
+| `indiaadvertising/src/components/Products.js`       | Quote modal      | ✅ Fixed   |
+| `indiaadvertising/src/components/AdminDashboard.js` | Admin panel      | ✅ Fixed   |
+| `india-advertising-node/.env`                       | Config variables | ✅ Set     |
 
 ---
 
 ## 🔧 Common Commands
 
 ### Build for Production
+
 ```bash
 cd e:\advertising\indiaadvertising
 npm run build
@@ -42,6 +45,7 @@ npm run build
 ```
 
 ### Test Email System
+
 ```bash
 cd e:\advertising\india-advertising-node
 node TEST_EMAIL.js
@@ -49,6 +53,7 @@ node TEST_EMAIL.js
 ```
 
 ### Push to GitHub
+
 ```bash
 cd e:\advertising
 git add .
@@ -58,6 +63,7 @@ git push
 ```
 
 ### Update Dependencies
+
 ```bash
 cd e:\advertising\indiaadvertising
 npm install
@@ -71,11 +77,13 @@ npm install
 ## 📧 Email Configuration
 
 **Current Setup:**
+
 - Gmail: `indiaadvertising05@gmail.com`
 - App Password: `stllwvdrvljilqhq`
 - Location: `india-advertising-node/.env`
 
 **If changing email:**
+
 1. Create new App Password on Gmail
 2. Update `.env` file
 3. Restart Node server
@@ -85,11 +93,13 @@ npm install
 ## 🌐 Live Deployment
 
 ### Frontend (Already Live ✅)
+
 - **URL:** https://www.indiaadvertising.com
 - **How:** GitHub Pages (auto-updates on git push)
 - **Status:** 24/7 online
 
 ### Backend (Deploy to Cloud)
+
 - **Options:** Render.com | Railway.app | Heroku | DigitalOcean
 - **Time:** 15-30 minutes setup
 - **Instructions:** See `PRODUCTION_DEPLOYMENT_GUIDE.md`
@@ -100,6 +110,7 @@ npm install
 ## ✨ What's Included
 
 ### Features ✅
+
 - Email contact form
 - Product quote requests
 - Admin dashboard (CRUD)
@@ -109,12 +120,15 @@ npm install
 - Mobile responsive
 
 ### Forms
+
 - Contact form → Sends email
 - Quote modal → Sends email + product info
 - Admin dashboard → Manages all content
 
 ### Admin Dashboard
+
 Access by scrolling to bottom of website:
+
 - Add/Edit/Delete Products
 - Manage Categories
 - Add Client testimonials
@@ -124,13 +138,13 @@ Access by scrolling to bottom of website:
 
 ## 🐛 Quick Troubleshoot
 
-| Problem | Solution |
-|---------|----------|
-| Email won't send | Check .env has GMAIL_USER and GMAIL_PASS |
-| API returns 404 | Make sure backend is running (`npm start`) |
-| Admin missing | Scroll to bottom of website |
-| Forms don't submit | Check browser console (F12) for errors |
-| Images don't upload | Verify `uploads/` folder exists |
+| Problem             | Solution                                   |
+| ------------------- | ------------------------------------------ |
+| Email won't send    | Check .env has GMAIL_USER and GMAIL_PASS   |
+| API returns 404     | Make sure backend is running (`npm start`) |
+| Admin missing       | Scroll to bottom of website                |
+| Forms don't submit  | Check browser console (F12) for errors     |
+| Images don't upload | Verify `uploads/` folder exists            |
 
 ---
 
@@ -180,6 +194,7 @@ e:\advertising/
 ## 🎯 Next Steps
 
 ### To Deploy Backend (RECOMMENDED)
+
 1. Read `PRODUCTION_DEPLOYMENT_GUIDE.md`
 2. Choose hosting (Render.com recommended)
 3. Follow step-by-step setup
@@ -187,6 +202,7 @@ e:\advertising/
 5. Test everything
 
 ### To Keep Developing
+
 1. Make changes locally
 2. Run `npm start` for both backend & frontend
 3. Test changes at http://localhost:3000
@@ -196,18 +212,19 @@ e:\advertising/
 
 ## 📞 Version Info
 
-| Component | Version | Status |
-|-----------|---------|--------|
-| Frontend | v1.0.0 | ✅ Live |
-| Backend | v1.0.0 | ⚙️ Local |
-| Release | v1.0.0 | ✅ Released |
-| GitHub | main branch | ✅ Synced |
+| Component | Version     | Status      |
+| --------- | ----------- | ----------- |
+| Frontend  | v1.0.0      | ✅ Live     |
+| Backend   | v1.0.0      | ⚙️ Local    |
+| Release   | v1.0.0      | ✅ Released |
+| GitHub    | main branch | ✅ Synced   |
 
 ---
 
 ## 🎊 You're All Set!
 
 Your India Advertising Platform is:
+
 - ✅ Complete
 - ✅ Tested
 - ✅ Live online
@@ -218,5 +235,5 @@ Your India Advertising Platform is:
 
 ---
 
-*Last Updated: November 11, 2025*
-*Questions? Check the documentation files or the troubleshooting section.*
+_Last Updated: November 11, 2025_
+_Questions? Check the documentation files or the troubleshooting section._
