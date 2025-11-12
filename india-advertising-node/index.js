@@ -1,6 +1,7 @@
 import dotenv from 'dotenv';
 import express from 'express';
 import cors from 'cors';
+import bodyParser from 'body-parser';
 import fs from 'fs-extra';
 import path from 'path';
 import multer from 'multer';
@@ -16,8 +17,8 @@ const PORT = process.env.PORT || 5000;
 
 // ---------- Config ----------
 app.use(cors({ origin: process.env.CORS_ORIGIN || '*' }));
-app.use(express.json({ limit: '10mb' }));
-app.use(express.urlencoded({ extended: true }));
+app.use(bodyParser.json({ limit: '10mb' }));
+app.use(bodyParser.urlencoded({ extended: true }));
 
 const DATA_PATH = process.env.COMPANY_DATA_PATH || path.join(__dirname, 'data', 'companyData.json');
 const UPLOADS_DIR = process.env.UPLOADS_DIR || path.join(__dirname, 'uploads');
@@ -95,7 +96,7 @@ app.post(
   ['/api/updateData.php', '/api/updateData'],
   upload,
   async (req, res) => {
-    const adminPassword = process.env.ADMIN_PASSWORD || 'admin123';
+  const adminPassword = process.env.ADMIN_PASSWORD || 'admin123india321';
     if (req.body.password !== adminPassword) {
       return res.status(401).json({ error: 'Invalid password' });
     }
