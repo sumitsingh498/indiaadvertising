@@ -1,44 +1,38 @@
 # India Advertising - Full Stack Project# India Advertising (Monorepo)
 
-
-
 A complete advertising platform with Node.js Express backend and React frontend.This repository contains the frontend (React) and backend (Node/Express) for the India Advertising website.
 
-
-
 ## 📁 Project StructureStructure
-
-
 
 ```- `indiaadvertising/` — React app (frontend)
 
 india-advertising/- `india-advertising-node/` — Express API (backend)
 
-├── india-advertising-node/      # Node.js Express Backend (API Server)
+├── india-advertising-node/ # Node.js Express Backend (API Server)
 
-│   ├── index.js                  # Main server entry pointQuick start (local)
+│ ├── index.js # Main server entry pointQuick start (local)
 
-│   ├── package.json              # Backend dependencies
+│ ├── package.json # Backend dependencies
 
-│   ├── .env                      # Environment variables (secrets - DO NOT COMMIT)1. Frontend
+│ ├── .env # Environment variables (secrets - DO NOT COMMIT)1. Frontend
 
-│   ├── .env.example              # Template for .env
+│ ├── .env.example # Template for .env
 
-│   ├── data/   ```powershell
+│ ├── data/ ```powershell
 
-│   │   └── companyData.json      # Company data (products, categories, gallery)   cd indiaadvertising
+│ │ └── companyData.json # Company data (products, categories, gallery) cd indiaadvertising
 
-│   ├── routes/                   # API routes   npm ci
+│ ├── routes/ # API routes npm ci
 
-│   ├── middleware/               # Express middleware   npm start
+│ ├── middleware/ # Express middleware npm start
 
-│   ├── utils/                    # Helper functions (email)   ```
+│ ├── utils/ # Helper functions (email) ```
 
-│   └── uploads/                  # Uploaded images directory
+│ └── uploads/ # Uploaded images directory
 
-├── indiaadvertising/             # React Frontend Application2. Backend
+├── indiaadvertising/ # React Frontend Application2. Backend
 
-└── .github/   ```powershell
+└── .github/ ```powershell
 
     └── workflows/   cd india-advertising-node
 
@@ -46,9 +40,9 @@ india-advertising/- `india-advertising-node/` — Express API (backend)
 
         └── deploy.yml            # Continuous Deployment (Auto-deploy to Heroku)   # create .env from .env.example and update values
 
-```   node index.js
+```node index.js
 
-   ```
+```
 
 ## ⚡ Quick Start (Local Development)
 
@@ -68,14 +62,17 @@ CI
 
 npm install- A GitHub Actions workflow is included to build the frontend and run backend checks.
 
-
 # Copy .env template and configure
+
 Copy-Item .env.example .env
 
 # Edit .env with your Gmail credentials
+
 # Start development server
+
 npm run dev
-```
+
+````
 
 Server runs on `http://localhost:5000`
 
@@ -85,7 +82,7 @@ Server runs on `http://localhost:5000`
 cd indiaadvertising
 npm install
 npm start
-```
+````
 
 Frontend runs on `http://localhost:3000`
 
@@ -131,15 +128,15 @@ Go to GitHub repo → Settings → Secrets and variables → Actions
 
 Add these secrets:
 
-| Secret Name | Value |
-|------------|-------|
-| `HEROKU_API_KEY` | From `heroku auth:token` |
-| `HEROKU_EMAIL` | Your Heroku email |
-| `HEROKU_APP_NAME` | `india-advertising-api` (or your app name) |
-| `GMAIL_USER` | `indiaadvertising05@gmail.com` |
-| `GMAIL_PASS` | Your 16-char Gmail app password |
-| `ADMIN_PASSWORD` | Your secure admin password |
-| `CORS_ORIGIN` | Your frontend domain (e.g., `https://yourdomain.com`) |
+| Secret Name       | Value                                                 |
+| ----------------- | ----------------------------------------------------- |
+| `HEROKU_API_KEY`  | From `heroku auth:token`                              |
+| `HEROKU_EMAIL`    | Your Heroku email                                     |
+| `HEROKU_APP_NAME` | `india-advertising-api` (or your app name)            |
+| `GMAIL_USER`      | `indiaadvertising05@gmail.com`                        |
+| `GMAIL_PASS`      | Your 16-char Gmail app password                       |
+| `ADMIN_PASSWORD`  | Your secure admin password                            |
+| `CORS_ORIGIN`     | Your frontend domain (e.g., `https://yourdomain.com`) |
 
 ### Step 3: Get Heroku API Key
 
@@ -151,12 +148,14 @@ heroku auth:token
 ### Step 4: Deploy
 
 **Automatic (GitHub Actions):**
+
 ```bash
 git push origin main
 # Deployment runs automatically!
 ```
 
 **Manual (Heroku CLI):**
+
 ```bash
 cd india-advertising-node
 git push heroku main
@@ -172,25 +171,25 @@ heroku logs --app=india-advertising-api --tail
 
 ### Admin (Requires Password)
 
-| Method | Endpoint | Purpose |
-|--------|----------|---------|
-| POST | `/admin/verify` | Verify admin password |
-| POST | `/admin/sync` | Get all data (categories, gallery, company info) |
-| POST | `/admin/upload` | Update data & upload images |
+| Method | Endpoint        | Purpose                                          |
+| ------ | --------------- | ------------------------------------------------ |
+| POST   | `/admin/verify` | Verify admin password                            |
+| POST   | `/admin/sync`   | Get all data (categories, gallery, company info) |
+| POST   | `/admin/upload` | Update data & upload images                      |
 
 ### Public Data
 
-| Method | Endpoint | Purpose |
-|--------|----------|---------|
-| GET | `/data/categories` | Get all categories and products |
-| GET | `/data/gallery` | Get gallery images |
-| GET | `/data/company-info` | Get company information |
+| Method | Endpoint             | Purpose                         |
+| ------ | -------------------- | ------------------------------- |
+| GET    | `/data/categories`   | Get all categories and products |
+| GET    | `/data/gallery`      | Get gallery images              |
+| GET    | `/data/company-info` | Get company information         |
 
 ### Quotes
 
-| Method | Endpoint | Purpose |
-|--------|----------|---------|
-| POST | `/quote/send` | Send quote request email |
+| Method | Endpoint      | Purpose                  |
+| ------ | ------------- | ------------------------ |
+| POST   | `/quote/send` | Send quote request email |
 
 ## 📊 Admin Dashboard Usage
 
@@ -264,17 +263,19 @@ curl -X POST http://localhost:5000/admin/verify \
 To serve React frontend from the same server:
 
 1. Build React app:
+
 ```bash
 cd indiaadvertising
 npm run build
 ```
 
 2. Uncomment in `india-advertising-node/index.js`:
+
 ```javascript
 // Serve React build (last route)
-app.use(express.static(path.join(__dirname, '../indiaadvertising/build')));
-app.get('*', (req, res) => {
-  res.sendFile(path.join(__dirname, '../indiaadvertising/build', 'index.html'));
+app.use(express.static(path.join(__dirname, "../indiaadvertising/build")));
+app.get("*", (req, res) => {
+  res.sendFile(path.join(__dirname, "../indiaadvertising/build", "index.html"));
 });
 ```
 

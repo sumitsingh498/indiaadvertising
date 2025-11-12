@@ -23,27 +23,31 @@
    heroku create india-advertising-api
    ```
 3. **Get Heroku API Key**:
+
    ```bash
    heroku auth:token
    ```
+
    Copy the output token.
 
 4. **Add GitHub Secrets** (GitHub repo → Settings → Secrets and variables → Actions → New repository secret):
 
-   | Name | Value |
-   |------|-------|
-   | `HEROKU_API_KEY` | Your token from step 3 |
-   | `HEROKU_EMAIL` | Your Heroku email |
-   | `HEROKU_APP_NAME` | `india-advertising-api` |
-   | `GMAIL_USER` | `indiaadvertising05@gmail.com` |
-   | `GMAIL_PASS` | Gmail app password (16 chars) |
-   | `ADMIN_PASSWORD` | Your secure password |
-   | `CORS_ORIGIN` | Your frontend domain |
+   | Name              | Value                          |
+   | ----------------- | ------------------------------ |
+   | `HEROKU_API_KEY`  | Your token from step 3         |
+   | `HEROKU_EMAIL`    | Your Heroku email              |
+   | `HEROKU_APP_NAME` | `india-advertising-api`        |
+   | `GMAIL_USER`      | `indiaadvertising05@gmail.com` |
+   | `GMAIL_PASS`      | Gmail app password (16 chars)  |
+   | `ADMIN_PASSWORD`  | Your secure password           |
+   | `CORS_ORIGIN`     | Your frontend domain           |
 
 5. **Deploy**:
+
    ```bash
    git push origin main
    ```
+
    → GitHub Actions automatically deploys to Heroku!
 
 6. **Verify Deployment**:
@@ -75,6 +79,7 @@ Then uncomment the frontend serving code in `india-advertising-node/index.js`.
 ### 3. Connect Your Domain (Optional)
 
 In Heroku app settings:
+
 - Add your custom domain: `api.yourdomain.com`
 - Enable SSL/TLS certificate
 
@@ -100,6 +105,7 @@ curl -X POST https://india-advertising-api.herokuapp.com/quote/send \
 ## 🔑 GitHub Secrets Setup (Detailed)
 
 ### HEROKU_API_KEY
+
 ```bash
 # Generate this token
 heroku login
@@ -108,22 +114,26 @@ heroku auth:token
 ```
 
 ### HEROKU_EMAIL
+
 ```
 Your Heroku account email (e.g., sumitsinghmawai63@gmail.com)
 ```
 
 ### HEROKU_APP_NAME
+
 ```
 india-advertising-api
 # Or your custom Heroku app name
 ```
 
 ### GMAIL_USER
+
 ```
 indiaadvertising05@gmail.com
 ```
 
 ### GMAIL_PASS
+
 ⚠️ **IMPORTANT**: This is NOT your Gmail password!
 
 1. Go to https://myaccount.google.com/security
@@ -134,12 +144,14 @@ indiaadvertising05@gmail.com
 6. Paste it WITHOUT spaces
 
 ### ADMIN_PASSWORD
+
 ```
 Create a strong password (e.g., P@ssw0rd!Admin2024)
 This protects your admin dashboard
 ```
 
 ### CORS_ORIGIN
+
 ```
 For development: *
 For production: https://yourdomain.com
@@ -210,14 +222,17 @@ Make sure `CORS_ORIGIN` in secrets matches your frontend domain exactly.
 ## 📈 Monitoring & Maintenance
 
 ### Daily
+
 - Check Heroku logs for errors
 - Monitor new incoming quotes/emails
 
 ### Weekly
+
 - Backup `companyData.json`
 - Review admin logs
 
 ### Monthly
+
 - Update Node.js packages: `npm update`
 - Check for security vulnerabilities: `npm audit`
 
@@ -237,16 +252,19 @@ Make sure `CORS_ORIGIN` in secrets matches your frontend domain exactly.
 If something breaks:
 
 1. **Check Logs**:
+
    ```bash
    heroku logs --app=india-advertising-api --tail
    ```
 
 2. **Restart App**:
+
    ```bash
    heroku restart --app=india-advertising-api
    ```
 
 3. **View Config**:
+
    ```bash
    heroku config --app=india-advertising-api
    ```
