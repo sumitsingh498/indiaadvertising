@@ -1,0 +1,10 @@
+node_modules
+
+# Local environment variables
+.env.local
+
+# Build output
+build/
+
+# macOS
+.DS_Store
