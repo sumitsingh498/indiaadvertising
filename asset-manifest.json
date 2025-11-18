@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/indiaadvertising/static/css/main.9e910473.css",
+    "main.js": "/indiaadvertising/static/js/main.ad5d4c78.js",
+    "static/media/indiaadvertisings-logo.png": "/indiaadvertising/static/media/indiaadvertisings-logo.950e1695c35526bfa09a.png",
+    "static/media/indiaadvertising-logo.png": "/indiaadvertising/static/media/indiaadvertising-logo.678da7543863f7834256.png",
+    "index.html": "/indiaadvertising/index.html",
+    "main.9e910473.css.map": "/indiaadvertising/static/css/main.9e910473.css.map",
+    "main.ad5d4c78.js.map": "/indiaadvertising/static/js/main.ad5d4c78.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e910473.css",
+    "static/js/main.ad5d4c78.js"
+  ]
+}
