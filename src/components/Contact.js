@@ -100,17 +100,24 @@ const Contact = () => {
           <div className="space-y-4 text-navy-700">
             <h3 className="text-xl font-bold sm:text-2xl">Details</h3>
             <p className="text-sm sm:text-base">
-              <strong>Address:</strong> House No. 560, Shop No. 1, Ground Floor, 
-              Hidayatour Afzalgarh, Bijnor, UP-246722
+              <strong>Address:</strong> Plot No. H-27, First Floor, Sector-9 Gautam Buddha Nagar, Noida, UP-201301
             </p>
             <p className="text-sm sm:text-base">
               <strong>Phone:</strong>{" "}
               <a 
-                href="tel:+919899575231" 
+                href="tel:+919899572539" 
                 className="text-blue-600 transition-colors hover:text-blue-800 hover:underline"
                 title="Click to call"
               >
-                +91 9899575231
+                +91 9899572539
+              </a>
+              <span> , </span>
+              <a 
+                href="tel:0120-4486192" 
+                className="text-blue-600 transition-colors hover:text-blue-800 hover:underline"
+                title="Click to call"
+              >
+                0120-4486192
               </a>
             </p>
             <p className="text-sm sm:text-base">

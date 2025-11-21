@@ -1,3 +1,4 @@
+// E:\indiaadvertising\src\App.js
 import React, { useEffect } from 'react';
 import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 import { motion } from 'framer-motion';
@@ -9,12 +10,9 @@ import Products from './components/Products';
 import Gallery from './components/Gallery';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
+import FloatingChat from './components/FloatingChat';  // Already exists
 import './index.css';
 
-/**
- * MainPage Component
- * Renders the main landing page with all sections
- */
 function MainPage() {
   return (
     <div className="min-h-screen bg-white">
@@ -22,10 +20,8 @@ function MainPage() {
       <motion.main
         initial="hidden"
         animate="visible"
-        variants={{ 
-          visible: { 
-            transition: { staggerChildren: 0.1, delayChildren: 0.2 } 
-          } 
+        variants={{
+          visible: { transition: { staggerChildren: 0.1, delayChildren: 0.2 } }
         }}
         role="main"
       >
@@ -36,31 +32,21 @@ function MainPage() {
         <Contact />
       </motion.main>
       <Footer />
+      <FloatingChat />   {/* This is your magic chat */}
     </div>
   );
 }
 
-/**
- * App Component
- * Root component with error boundary and router setup
- */
 function App() {
   useEffect(() => {
-    // Set light theme on app load
     document.documentElement.classList.remove('dark');
     localStorage.setItem('theme', 'light');
-    
-    // Set page title
-    document.title = 'India Advertising | Premium Advertising Solutions';
-    
-    // Meta description
-    const metaDescription = document.querySelector('meta[name="description"]');
-    if (!metaDescription) {
-      const meta = document.createElement('meta');
-      meta.name = 'description';
-      meta.content = 'India Advertising - Premium SS Name Plates, Acrylic Signs, LED Boards, and advertising solutions across India.';
-      document.head.appendChild(meta);
-    }
+    document.title = 'India Advertising | LED Sign Board | ACP | 3D Letters | Name Plates';
+
+    const meta = document.createElement('meta');
+    meta.name = 'description';
+    meta.content = 'Premium LED Sign Boards, ACP Glow Signs, 3D Acrylic Letters, SS Name Plates manufacturer in India. Best price guaranteed.';
+    document.head.appendChild(meta);
   }, []);
 
   return (

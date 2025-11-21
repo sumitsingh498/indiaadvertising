@@ -107,7 +107,7 @@ const Home = () => {
         <motion.div className="grid w-full max-w-5xl grid-cols-1 gap-6 px-4 mb-12 sm:grid-cols-3 sm:gap-8 md:gap-10" initial={{ y: 50, opacity: 0 }} animate={{ y: 0, opacity: 1 }} transition={{ duration: 1, delay: 2.3 }}>
           {[
             { num: '200+', label: 'Clients', icon: '🏢', color: 'from-emerald-400 to-lime-500' },
-            { num: '5+', label: 'Years', icon: '⏳', color: 'from-yellow-400 to-emerald-500' },
+            { num: '7+', label: 'Years', icon: '⏳', color: 'from-yellow-400 to-emerald-500' },
             { num: 'Pan India', label: 'Coverage', icon: '🌎', color: 'from-emerald-300 to-green-600' },
           ].map((stat, i) => (
             <motion.div key={i} className={`p-6 sm:p-8 md:p-10 rounded-2xl bg-gradient-to-br ${stat.color}/20 border border-emerald-400/40 backdrop-blur-md text-center shadow-lg hover:shadow-emerald-500/60`} whileHover={{ scale: 1.08 }}>

@@ -30,7 +30,7 @@ const About = () => {
           >
             <h3 className="mb-5 text-2xl font-semibold text-navy-800">Company Details</h3>
             <div className="space-y-2 text-base text-navy-700">
-              <p><strong>Established:</strong> 2018 (10+ Years)</p>
+              <p><strong>Established:</strong> 2018 (7+ Years)</p>
               <p><strong>MD:</strong> Mr. Naseem Ahmad</p>
               <p><strong>Turnover:</strong> 20+ Cr.</p>
               <p><strong>Staff:</strong> 20+</p>
@@ -59,8 +59,8 @@ const About = () => {
           >
             <h3 className="mb-5 text-2xl font-semibold text-navy-800">Contact</h3>
             <div className="space-y-2 text-base text-navy-700">
-              <p><strong>Address:</strong> House No. 560, Shop No. 1, Ground Floor, Hidayatour Afzalgarh, Bijnor, UP-246722</p>
-              <p><strong>Phone:</strong> 9899575231</p>
+              <p><strong>Address:</strong>Plot No. H-27, First Floor, Sector-9 Gautam Buddha Nagar, Noida, UP-201301</p>
+              <p><strong>Phone:</strong> 9899572539 , 0120-4486192</p>
               <p><strong>Email:</strong> info@indiaadvertising.in</p>
               <p><strong>Website:</strong> www.indiadvertising.com</p>
             </div>

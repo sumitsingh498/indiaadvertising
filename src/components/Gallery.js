@@ -21,7 +21,7 @@ const Gallery = () => {
   const maxDots = 50;
   const showPaginated = length > maxDots;
   const dotsToShow = showPaginated ? 10 : length;
-  const companyName = data?.companyInfo?.name || 'Taj Advertising';
+  const companyName = data?.companyInfo?.name || 'India Advertising';
   const tagline = `Premium Advertising Solutions in ${data?.companyInfo?.location || 'India'}`;
   const description = data?.companyInfo?.description || '';
 
